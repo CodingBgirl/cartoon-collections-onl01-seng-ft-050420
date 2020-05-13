@@ -1,4 +1,3 @@
-dwarfs = ["Doc", "Dopey", "Bashful", "grumpy"]
 def roll_call_dwarves(array)
   i = 0
   while i < array.length
